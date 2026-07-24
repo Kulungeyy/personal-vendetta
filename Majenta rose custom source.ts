@@ -145,10 +145,10 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "Anomalous Coffee Machine 2",
-      romaji: "Anomalous Coffee Machine 2",
+      userPreferred: "Anomalous Coffee Machine II",
+      romaji: "Anomalous Coffee Machine II",
       english: null,
-      native: "Anomalous Coffee Machine 2",
+      native: "Anomalous Coffee Machine II",
     },
     coverImage: {
       extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7TuVb7-742640027.jpg",
