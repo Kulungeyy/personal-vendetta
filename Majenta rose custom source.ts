@@ -33,7 +33,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   2: {
     id: 2,
     idMal: null,
@@ -66,7 +65,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   3: {
     id: 3,
     idMal: null,
@@ -99,7 +97,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   4: {
     id: 4,
     idMal: null,
@@ -132,7 +129,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   5: {
     id: 5,
     idMal: null,
@@ -165,7 +161,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   6: {
     id: 6,
     idMal: null,
@@ -198,7 +193,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   7: {
     id: 7,
     idMal: null,
@@ -231,7 +225,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   8: {
     id: 8,
     idMal: null,
@@ -256,7 +249,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       color: null,
     },
     bannerImage: null,
-    description: "Publisher: Conncetion",
+    description: "Publisher: Connection",
     genres: [],
     averageScore: null,
     popularity: 0,
@@ -264,7 +257,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   9: {
     id: 9,
     idMal: null,
@@ -297,7 +289,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   10: {
     id: 10,
     idMal: null,
@@ -330,7 +321,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   11: {
     id: 11,
     idMal: null,
@@ -363,7 +353,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
   12: {
     id: 12,
     idMal: null,
