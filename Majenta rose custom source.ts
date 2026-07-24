@@ -13,10 +13,10 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "アリアリアナマンさっきゅばす ち◯ちん生えてる悪魔っ娘",
-      romaji: "アリアリアナマンさっきゅばす ち◯ちん生えてる悪魔っ娘",
+      userPreferred: "アリアリアナマンさっきゅばす ち〇ちん生えてる悪魔っ娘",
+      romaji: "アリアリアナマンさっきゅばす ち〇ちん生えてる悪魔っ娘",
       english: null,
-      native: "アリアリアナマンさっきゅばす ち◯ちん生えてる悪魔っ娘",
+      native: "アリアリアナマンさっきゅばす ち〇ちん生えてる悪魔っ娘",
     },
     coverImage: {
       extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ234937_img_main%20(1).jpg",
@@ -77,10 +77,10 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "SUCCUBUS T.G.D.",
-      romaji: "SUCCUBUS T.G.D.",
-      english: "SUCCUBUS T.G.D.",
-      native: "SUCCUBUS T.G.D.",
+      userPreferred: "RJ188959 - SUCCUBUS T.G.D",
+      romaji: "RJ188959 - SUCCUBUS T.G.D",
+      english: "RJ188959 - SUCCUBUS T.G.D",
+      native: "RJ188959 - SUCCUBUS T.G.D",
     },
     coverImage: {
       extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ188959_img_main%20.jpg",
