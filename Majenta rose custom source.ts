@@ -13,9 +13,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "アリアリアナマンさっきゅばす ち〇ちん生えてる悪魔っ娘",
-      romaji: "アリアリアナマンさっきゅばす ち〇ちん生えてる悪魔っ娘",
-      english: null,
+      userPreferred: "Ariariana Man Succubus - Akuma Musume",
+      romaji: "Ariariana Man Succubus - Akuma Musume",
+      english: "Ariariana Man Succubus - Akuma Musume",
       native: "アリアリアナマンさっきゅばす ち〇ちん生えてる悪魔っ娘",
     },
     coverImage: {
@@ -45,9 +45,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "俺のセフレは男の娘",
-      romaji: "俺のセフレは男の娘",
-      english: null,
+      userPreferred: "Ore no Sefure wa Otokonoko",
+      romaji: "Ore no Sefure wa Otokonoko",
+      english: "Ore no Sefure wa Otokonoko",
       native: "俺のセフレは男の娘",
     },
     coverImage: {
@@ -77,10 +77,10 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "RJ188959 - SUCCUBUS T.G.D",
-      romaji: "RJ188959 - SUCCUBUS T.G.D",
-      english: "RJ188959 - SUCCUBUS T.G.D",
-      native: "RJ188959 - SUCCUBUS T.G.D",
+      userPreferred: "SUCCUBUS T.G.D",
+      romaji: "SUCCUBUS T.G.D",
+      english: "SUCCUBUS T.G.D",
+      native: "SUCCUBUS T.G.D",
     },
     coverImage: {
       extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ188959_img_main%20.jpg",
@@ -111,7 +111,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     title: {
       userPreferred: "Anomalous Coffee Machine",
       romaji: "Anomalous Coffee Machine",
-      english: null,
+      english: "Anomalous Coffee Machine",
       native: "Anomalous Coffee Machine",
     },
     coverImage: {
@@ -143,7 +143,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     title: {
       userPreferred: "Anomalous Coffee Machine II",
       romaji: "Anomalous Coffee Machine II",
-      english: null,
+      english: "Anomalous Coffee Machine II",
       native: "Anomalous Coffee Machine II",
     },
     coverImage: {
@@ -175,7 +175,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     title: {
       userPreferred: "Happy Island Fantasy",
       romaji: "Happy Island Fantasy",
-      english: null,
+      english: "Happy Island Fantasy",
       native: "Happy Island Fantasy",
     },
     coverImage: {
@@ -207,7 +207,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     title: {
       userPreferred: "Peeping Dorm Manager",
       romaji: "Peeping Dorm Manager",
-      english: null,
+      english: "Peeping Dorm Manager",
       native: "Peeping Dorm Manager",
     },
     coverImage: {
@@ -239,7 +239,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     title: {
       userPreferred: "Summer Clover",
       romaji: "Summer Clover",
-      english: null,
+      english: "Summer Clover",
       native: "Summer Clover",
     },
     coverImage: {
@@ -271,7 +271,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     title: {
       userPreferred: "The Neighbor's Wife 2",
       romaji: "The Neighbor's Wife 2",
-      english: null,
+      english: "The Neighbor's Wife 2",
       native: "The Neighbor's Wife 2",
     },
     coverImage: {
@@ -301,10 +301,10 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "winter~Life in the Countryside",
-      romaji: "winter~Life in the Countryside",
-      english: null,
-      native: "winter~Life in the Countryside",
+      userPreferred: "Winter - Life in the Countryside",
+      romaji: "Winter - Life in the Countryside",
+      english: "Winter - Life in the Countryside",
+      native: "Winter - Life in the Countryside",
     },
     coverImage: {
       extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/4650718_1741441205301.jpg",
@@ -333,9 +333,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "なつのさがしもの",
-      romaji: "なつのさがしもの",
-      english: null,
+      userPreferred: "Natsu no Sagashimono",
+      romaji: "Natsu no Sagashimono",
+      english: "Natsu no Sagashimono",
       native: "なつのさがしもの",
     },
     coverImage: {
@@ -345,7 +345,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       color: null,
     },
     bannerImage: null,
-    description: "Publisher: ぺこげーすたじお",
+    description: "Publisher: Pekoge Studio",
     genres: [],
     averageScore: null,
     popularity: 0,
@@ -365,9 +365,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     countryOfOrigin: "JP",
     isAdult: true,
     title: {
-      userPreferred: "近所の人妻～中出しセックス",
-      romaji: "近所の人妻～中出しセックス",
-      english: null,
+      userPreferred: "Kinjo no Hitozuma - Nakadashi Sex",
+      romaji: "Kinjo no Hitozuma - Nakadashi Sex",
+      english: "Kinjo no Hitozuma - Nakadashi Sex",
       native: "近所の人妻～中出しセックス",
     },
     coverImage: {
@@ -408,9 +408,8 @@ class Provider implements CustomSource {
     return null
   }
 
-  // Fixed: previously hardcoded to always return a single "episode 1" entry
-  // regardless of the anime's actual episode count. Now generates one
-  // metadata entry per declared episode.
+  // Generates one metadata entry per declared episode count, instead of
+  // always returning a single "episode 1" entry regardless of actual count.
   async getAnimeMetadata(id: number): Promise<$app.Metadata_AnimeMetadata | null> {
     const entry = anime[id]
     if (!entry) return null
