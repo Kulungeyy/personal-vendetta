@@ -19,9 +19,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "アリアリアナマンさっきゅばす ち◯ちん生えてる悪魔っ娘",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/v82105.jpg",
-      large: "https://files.catbox.moe/v82105.jpg",
-      medium: "https://files.catbox.moe/v82105.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ234937_img_main%20(1).jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ234937_img_main%20(1).jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ234937_img_main%20(1).jpg",
       color: null,
     },
     bannerImage: null,
@@ -52,9 +52,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "俺のセフレは男の娘",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/14b1ju.jpg",
-      large: "https://files.catbox.moe/14b1ju.jpg",
-      medium: "https://files.catbox.moe/14b1ju.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ099823_img_main.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ099823_img_main.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ099823_img_main.jpg",
       color: null,
     },
     bannerImage: null,
@@ -85,9 +85,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "SUCCUBUS T.G.D.",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/48cn39.jpg",
-      large: "https://files.catbox.moe/48cn39.jpg",
-      medium: "https://files.catbox.moe/48cn39.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ188959_img_main%20.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ188959_img_main%20.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ188959_img_main%20.jpg",
       color: null,
     },
     bannerImage: null,
@@ -118,9 +118,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "Anomalous Coffee Machine",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/r1nr72.jpg",
-      large: "https://files.catbox.moe/r1nr72.jpg",
-      medium: "https://files.catbox.moe/r1nr72.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/anomalous-coffee-machine-4270457604.png",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/anomalous-coffee-machine-4270457604.png",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/anomalous-coffee-machine-4270457604.png",
       color: null,
     },
     bannerImage: null,
@@ -132,6 +132,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   5: {
     id: 5,
     idMal: null,
@@ -150,9 +151,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "Anomalous Coffee Machine 2",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/rmz7vv.png",
-      large: "https://files.catbox.moe/rmz7vv.png",
-      medium: "https://files.catbox.moe/rmz7vv.png",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7TuVb7-742640027.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7TuVb7-742640027.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7TuVb7-742640027.jpg",
       color: null,
     },
     bannerImage: null,
@@ -164,6 +165,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   6: {
     id: 6,
     idMal: null,
@@ -182,9 +184,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "Happy Island Fantasy",
     },
     coverImage: {
-      extraLarge: "HappyCreator",
-      large: "HappyCreator",
-      medium: "HappyCreator",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/images%20(1).jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/images%20(1).jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/images%20(1).jpg",
       color: null,
     },
     bannerImage: null,
@@ -196,6 +198,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   7: {
     id: 7,
     idMal: null,
@@ -214,9 +217,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "Peeping Dorm Manager",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/58i6lw.jpg",
-      large: "https://files.catbox.moe/58i6lw.jpg",
-      medium: "https://files.catbox.moe/58i6lw.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7310e27839bd5dff3563e7845bc4935beb8d_616xr353-948410900.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7310e27839bd5dff3563e7845bc4935beb8d_616xr353-948410900.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/7310e27839bd5dff3563e7845bc4935beb8d_616xr353-948410900.jpg",
       color: null,
     },
     bannerImage: null,
@@ -228,7 +231,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
- 
+
   8: {
     id: 8,
     idMal: null,
@@ -247,9 +250,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "Summer Clover",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/h5l4lq.jpg",
-      large: "https://files.catbox.moe/h5l4lq.jpg",
-      medium: "https://files.catbox.moe/h5l4lq.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/download.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/download.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/download.jpg",
       color: null,
     },
     bannerImage: null,
@@ -261,6 +264,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   9: {
     id: 9,
     idMal: null,
@@ -279,9 +283,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "The Neighbor's Wife 2",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/szkhtb.avif",
-      large: "https://files.catbox.moe/szkhtb.avif",
-      medium: "https://files.catbox.moe/szkhtb.avif",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/5247020_ss-1.avif",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/5247020_ss-1.avif",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/5247020_ss-1.avif",
       color: null,
     },
     bannerImage: null,
@@ -293,6 +297,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   10: {
     id: 10,
     idMal: null,
@@ -311,9 +316,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "winter~Life in the Countryside",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/lqfnxz.jpg",
-      large: "https://files.catbox.moe/lqfnxz.jpg",
-      medium: "https://files.catbox.moe/lqfnxz.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/4650718_1741441205301.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/4650718_1741441205301.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/4650718_1741441205301.jpg",
       color: null,
     },
     bannerImage: null,
@@ -325,6 +330,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   11: {
     id: 11,
     idMal: null,
@@ -343,9 +349,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "なつのさがしもの",
     },
     coverImage: {
-      extraLarge: "https://files.catbox.moe/zk2a9u.jpg",
-      large: "https://files.catbox.moe/zk2a9u.jpg",
-      medium: "https://files.catbox.moe/zk2a9u.jpg",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/Natsu-no-Sagashimono-What-We-Found-That-Summer_BG_JP-2034537284.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/Natsu-no-Sagashimono-What-We-Found-That-Summer_BG_JP-2034537284.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/Natsu-no-Sagashimono-What-We-Found-That-Summer_BG_JP-2034537284.jpg",
       color: null,
     },
     bannerImage: null,
@@ -357,6 +363,7 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
+
   12: {
     id: 12,
     idMal: null,
@@ -375,9 +382,9 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
       native: "近所の人妻～中出しセックス",
     },
     coverImage: {
-      extraLarge: "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01079000/RJ01078364_img_main.webp",
-      large: "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01079000/RJ01078364_img_main.webp",
-      medium: "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01079000/RJ01078364_img_main.webp",
+      extraLarge: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ01078364_img_main.jpg",
+      large: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ01078364_img_main.jpg",
+      medium: "https://file.garden/al-ooJcQ9gJyjTQd/COVERS/RJ01078364_img_main.jpg",
       color: null,
     },
     bannerImage: null,
@@ -389,8 +396,6 @@ const anime: Record<number, $app.AL_CompleteAnime> = {
     endDate: { year: null, month: null, day: null },
     relations: { edges: [] },
   } as unknown as $app.AL_CompleteAnime,
-
-
 }
 
 class Provider implements CustomSource {
@@ -414,19 +419,28 @@ class Provider implements CustomSource {
     return null
   }
 
+  // Fixed: previously hardcoded to always return a single "episode 1" entry
+  // regardless of the anime's actual episode count. Now generates one
+  // metadata entry per declared episode.
   async getAnimeMetadata(id: number): Promise<$app.Metadata_AnimeMetadata | null> {
-    return {
-      episodes: {
-        "1": {
-          episodeNumber: 1,
-          title: "OVA",
-          image: null,
-          length: null,
-          summary: "",
-          airDate: "",
-        },
-      },
-    } as unknown as $app.Metadata_AnimeMetadata
+    const entry = anime[id]
+    if (!entry) return null
+
+    const episodeCount = (entry as any).episodes ?? 1
+    const episodes: Record<string, any> = {}
+
+    for (let i = 1; i <= episodeCount; i++) {
+      episodes[String(i)] = {
+        episodeNumber: i,
+        title: "OVA",
+        image: null,
+        length: null,
+        summary: "",
+        airDate: "",
+      }
+    }
+
+    return { episodes } as unknown as $app.Metadata_AnimeMetadata
   }
 
   async getAnimeWithRelations(id: number): Promise<$app.AL_CompleteAnime> {
