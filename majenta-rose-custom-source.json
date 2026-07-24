@@ -3,7 +3,7 @@
   "name": "Majenta Rose (Custom)",
   "description": "Local custom entries for OVAs not on AniList",
   "manifestURI": "https://raw.githubusercontent.com/Kulungeyy/personal-vendetta/refs/heads/main/majenta-rose-custom-source.json",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "you",
   "type": "custom-source",
   "language": "typescript",
